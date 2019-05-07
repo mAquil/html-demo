@@ -1,0 +1,48 @@
+
+
+
+.clearfix{
+	position: fixed;
+	 width: 100%;
+	background-color: pink;
+}
+h2{
+	float:left;
+	color:#ffffff;
+	font-family: 'Gugi', cursive;
+	font-size: 44px;
+}
+
+nav ul{
+	float: right;
+	 display: inline;
+	
+	
+}
+nav ul li{
+ 	font-size:18px;   
+    padding-right:30px;
+   
+}
+nav ul li a{
+	text-decoration: none;
+	 color: white;
+	 font-family: 'Gugi', cursive;
+}
+
+.grid_4{
+	max-height: 300px;
+	max-width: 300px;
+	padding-top: 70px;
+	
+	color:purple;
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+}
+.hero{
+	padding:30px 30px;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	color: purple;
+
+}
